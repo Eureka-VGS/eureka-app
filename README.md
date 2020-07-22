@@ -12,7 +12,7 @@ Erueka - A Simple banking bot for multiple purpose.
     
     cd eureka-app
     ```
-
+2. .env file will be shared, not appropriate to store in public repository.
 ## Running locally
 
 1. Install the dependencies
